@@ -1,9 +1,10 @@
 PImage img;
 
 void setup() {
+  size(626, 626);
   img = loadImage("gray_head.jpeg");
-  img.resize(int(img.width*.5), int(img.height*.5));
-  size(1252, 1252);
+  img.resize(626, 626);
+  
   background(img);
 
   fill(230, 142, 85);
