@@ -76,6 +76,11 @@ class FlowField {
     // Calculate length of vector & scale it to be bigger or smaller if necessary
     float len = v.mag()*scayl;
     // Draw three lines to make an arrow (draw pointing up since we've rotate to the proper direction)
+    int r,g,b;
+    r=int(random(255));
+    g=int(random(255));
+    b=int(random(255));
+    stroke(r,g,b);
     line(0,0,len,0);
     //line(len,0,len-arrowsize,+arrowsize/2);
     //line(len,0,len-arrowsize,-arrowsize/2);

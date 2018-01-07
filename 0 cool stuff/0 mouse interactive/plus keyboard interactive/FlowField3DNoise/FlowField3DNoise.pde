@@ -14,7 +14,7 @@ FlowField flowfield;
 ArrayList<Vehicle> vehicles;
 
 void setup() {
-  size(640, 360);
+  fullScreen();
   // Make a new flow field with "resolution" of 16
   flowfield = new FlowField(20);
   vehicles = new ArrayList<Vehicle>();
