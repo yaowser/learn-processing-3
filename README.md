@@ -12,6 +12,10 @@ https://github.com/SMUDataScience/Visualization-
 
 https://github.com/apress/processing-13
 
+https://github.com/Apress/esntl-guide-to-processing-for-flash-devs
+
+https://github.com/Apress/processing
+
 Download/install via https://processing.org/download/ and unzip/run the attached .pde files per directory by pressing the play button once opened on desktop. Some of them are pretty cool
 
 Note: for the "0 import image" directories, I have sample picture(s) used but you can put your own picture(s) in the directory while changing the import file and pixel size() in the code.
