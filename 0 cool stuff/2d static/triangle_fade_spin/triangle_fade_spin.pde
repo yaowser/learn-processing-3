@@ -1,29 +1,42 @@
-//Triangle Spin
-Point[]p = new Point[3];
-float shift = 2;
-float fade = 0;
-float fillCol = 0;
-float spin = 0;
-void setup(){
-size(400, 400);
-background(0);
+/*
+ Nematode - stage 2
+ Ira Greenberg, January 7, 2006
+ */
+size(500, 300);
+background(255);
+strokeWeight(.2);
 smooth();
-fade = 255.0/(width/2.0/shift);
-spin = 360.0/(width/2.0/shift);
-p[0] = new Point(1, height-1);
-p[1] = new Point(width-1, height-1);
-p[2] = new Point(width/2, 1);
-noStroke();
-triBlur();
-}
-void triBlur(){
-fill(fillCol);
-fillCol+=fade;
-rotate(spin);
-triangle(p[0].x+=shift, p[0].y-=shift/2, p[1].x-=shift, 
-p[1].y-=shift/2, p[2].x, p[2].y+=shift);
-if(p[0].x<width/2){
-// recursive call
-triBlur();
-}
+noFill();
+float radius = 0;
+float thickness = .35;
+float x = 0;
+float y = height/2;
+float amp = .5;
+float angle = 0;
+float angle2 = 0;
+for (int i=0; i<width/2-15; i++){
+  stroke(65, 10, 5);
+  noFill();
+  translate(2, y);
+  if (i >= width/2-40) {
+    fill(195, 110, 105, 70);
+  } 
+  else if (i >= width/4-40 && i <= width/2-100){
+    fill(195, 110, 105, 8);
+  } 
+  else {
+    fill(195, 110, 105, 2);
+  }
+  ellipse(-radius/2, -radius/2, radius*.75, radius);
+  noStroke();
+  fill(205, 110, 105, 40);
+  ellipse(-radius/2, -radius/2, radius*.25, radius*.25);
+  fill(205, 110, 105, 200);
+  ellipse(-radius/2, -radius/2, radius*.05, radius*.05);
+  y = sin(radians(angle+=5))*amp;
+  radius+=thickness;
+  radius+=sin(radians(angle2+=random(30)))*.4;
+  if (i==width/4){
+    thickness*=-.9;
+  }
 }

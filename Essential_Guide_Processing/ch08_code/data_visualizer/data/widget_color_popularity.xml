@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<Widget_color_popularity_2008>
+	<product name="Widget A">
+		<color name="silver" r="170" g="179" b="183">20</color>
+		<color name="black" r="20" g="20" b="20">15</color>
+		<color name="red" r="190" g="10" b="10">8</color>
+		<color name="brown" r="108" g="60" b="30">11</color>
+		<color name="blue" r="10" g="10" b="190">19</color>
+		<color name="gold" r="190" g="140" b="10">10</color>
+	</product>
+	<product name="Widget B">
+		<color name="silver" r="170" g="179" b="183">6</color>
+		<color name="black" r="20" g="20" b="20">7</color>
+		<color name="gray" r="100" g="100" b="100">8</color>
+		<color name="blue" r="10" g="10" b="190">25</color>
+		<color name="orange" r="190" g="127" b="10">6</color>
+		<color name="purple" r="155" g="10" b="175">7</color>
+	</product>
+	<product name="Widget C">
+		<color name="black" r="20" g="20" b="20">16</color>
+		<color name="blue" r="10" g="10" b="190">13</color>
+		<color name="white" r="165" g="165" b="165">10</color>
+		<color name="red" r="190" g="10" b="10">7</color>
+		<color name="brown" r="108" g="60" b="30">8</color>
+		<color name="green" r="10" g="190" b="10">25</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget D">
+		<color name="blue" r="10" g="10" b="190">8</color>
+		<color name="black" r="20" g="20" b="20">7</color>
+		<color name="gold" r="190" g="140" b="10">25</color>
+		<color name="gray" r="100" g="100" b="100">14</color>
+		<color name="brown" r="108" g="60" b="30">10</color>
+	</product>
+	<product name="Widget E">
+		<color name="white" r="165" g="165" b="165">12</color>
+		<color name="black" r="20" g="20" b="20">13</color>
+		<color name="gray" r="100" g="100" b="100">7</color>
+		<color name="red" r="190" g="10" b="10">25</color>
+		<color name="brown" r="108" g="60" b="30">8</color>
+		<color name="purple" r="124" g="72" b="198">18</color>
+	</product>
+	<product name="Widget F">
+		<color name="white" r="165" g="165" b="165">20</color>
+		<color name="black" r="20" g="20" b="20">20</color>
+		<color name="silver" r="170" g="179" b="183">17</color>
+		<color name="gray" r="100" g="100" b="100">13</color>
+		<color name="blue" r="10" g="10" b="190">12</color>
+		<color name="red" r="190" g="10" b="10">11</color>
+		<color name="gold" r="190" g="140" b="10">11</color>
+		<color name="green" r="10" g="190" b="10">8</color>
+		<color name="brown" r="108" g="60" b="30">10</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget G">
+		<color name="white" r="165" g="165" b="165">5</color>
+		<color name="black" r="20" g="20" b="20">10</color>
+		<color name="silver" r="170" g="179" b="183">17</color>
+		<color name="green" r="10" g="190" b="10">25</color>
+		<color name="gold" r="227" g="161" b="27">20</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget H">
+		<color name="silver" r="170" g="179" b="183">10</color>
+		<color name="black" r="20" g="20" b="20">6</color>
+		<color name="red" r="190" g="10" b="10">25</color>
+		<color name="brown" r="108" g="60" b="30">15</color>
+		<color name="gold" r="190" g="140" b="10">8</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget I">
+		<color name="silver" r="170" g="179" b="183">11</color>
+		<color name="black" r="20" g="20" b="20">20</color>
+		<color name="white" r="165" g="165" b="165">18</color>
+		<color name="gray" r="100" g="100" b="100">11</color>
+		<color name="blue" r="10" g="10" b="190">8</color>
+		<color name="red" r="190" g="10" b="10">10</color>
+		<color name="gold" r="190" g="140" b="10">15</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget J">
+		<color name="silver" r="170" g="179" b="183">7</color>
+		<color name="black" r="20" g="20" b="20">8</color>
+		<color name="white" r="165" g="165" b="165">9</color>
+		<color name="gray" r="100" g="100" b="100">8</color>
+		<color name="dark yellow" r="100" g="100" b="10">25</color>
+		<color name="green" r="190" g="200" b="10">10</color>
+	</product>
+	<product name="Widget K">
+		<color name="white" r="165" g="165" b="165">18</color>
+		<color name="gray" r="100" g="100" b="100">11</color>
+		<color name="blue" r="10" g="10" b="190">8</color>
+		<color name="dark red" r="75" g="10" b="10">20</color>
+	</product>
+	<product name="Widget L">
+		<color name="silver" r="170" g="179" b="183">10</color>
+		<color name="black" r="20" g="20" b="20">10</color>
+		<color name="white" r="165" g="165" b="165">18</color>
+		<color name="dark green" r="5" g="100" b="5">19</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget M">
+		<color name="silver" r="170" g="179" b="183">8</color>
+		<color name="black" r="20" g="20" b="20">10</color>
+		<color name="white" r="165" g="165" b="165">20</color>
+		<color name="gray" r="100" g="100" b="100">11</color>
+		<color name="blue" r="10" g="10" b="190">11</color>
+		<color name="red" r="190" g="10" b="10">10</color>
+		<color name="gold" r="190" g="140" b="10">20</color>
+	</product>
+	<product name="Widget N">
+		<color name="silver" r="170" g="179" b="183">10</color>
+		<color name="black" r="20" g="20" b="20">10</color>
+		<color name="white" r="165" g="165" b="165">20</color>
+		<color name="gray" r="100" g="100" b="100">8</color>
+		<color name="blue" r="10" g="10" b="190">10</color>
+		<color name="purple" r="155" g="10" b="175">15</color>
+	</product>
+	<product name="Widget O">
+		<color name="silver" r="170" g="179" b="183">6</color>
+		<color name="black" r="20" g="20" b="20">10</color>
+		<color name="gray" r="100" g="100" b="100">5</color>
+		<color name="Dark Green" r="10" g="100" b="20">25</color>
+		<color name="red" r="190" g="10" b="10">5</color>
+	</product>
+	<product name="Widget P">
+		<color name="silver" r="170" g="179" b="183">10</color>
+		<color name="black" r="20" g="20" b="20">11</color>
+		<color name="orange" r="190" g="127" b="10">20</color>
+		<color name="gray" r="100" g="100" b="100">11</color>
+		<color name="red" r="190" g="10" b="10">10</color>
+		<color name="gold" r="190" g="140" b="10">15</color>
+		<color name="purple" r="155" g="10" b="175">10</color>
+	</product>
+	<product name="Widget Q">
+		<color name="silver" r="170" g="179" b="183">20</color>
+		<color name="black" r="20" g="20" b="20">8</color>
+		<color name="white" r="165" g="165" b="165">18</color>
+		<color name="gray" r="100" g="100" b="100">11</color>
+		<color name="blue" r="10" g="10" b="190">15</color>
+		<color name="red" r="190" g="10" b="10">10</color>
+		<color name="gold" r="190" g="140" b="10">45</color>
+		<color name="purple" r="155" g="10" b="175">9</color>
+	</product>
+	<product name="Widget R">
+		<color name="silver" r="170" g="179" b="183">15</color>
+		<color name="black" r="20" g="20" b="20">13</color>
+		<color name="white" r="165" g="165" b="165">18</color>
+		<color name="gray" r="100" g="100" b="100">11</color>
+		<color name="blue" r="10" g="10" b="190">75</color>
+		<color name="red" r="190" g="10" b="10">10</color>
+		<color name="gold" r="190" g="140" b="10">15</color>
+		<color name="purple" r="155" g="10" b="175">20</color>
+	</product>
+</Widget_color_popularity_2008>
