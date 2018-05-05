@@ -1,4 +1,3 @@
-// https://docs.google.com/spreadsheets/d/1GZ1PWba2SZfmn9685WF_RVbblvG_9G45j3TBbmXSZkc/edit#gid=0
 
 import java.util.Iterator;
 ArrayList<Rain> rain = new ArrayList<Rain>();
@@ -30,10 +29,7 @@ void draw() {
   for(int m = 0; m<end; m++) {
     positions[m] = rain.get(m).location();
   }
-  println(positions);
-  
-  
-  
+  //println(positions);
   
   for(int i = 0; i<end; i++) {
     for(int j = i+1; j<end; j++) {
